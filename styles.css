@@ -1,0 +1,44 @@
+.LoginForm {
+    width: 400px;
+    height:  auto;
+    background-color: black;
+    margin: 50px auto;
+    border-radius: 10px;
+    border: 5px solid orange;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    padding: 80px 20px;
+}
+
+.LoginForm h1{
+    font-size: 30px;
+    color: white;
+}
+
+.LoginForm input {
+    width: 80%;
+    padding: 10px 20px;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 20px; 
+    color: white;
+}
+
+.btn {
+    width: 40%;
+    padding: 8px 15px;
+    font-size: 20px;
+     display: inline-block;
+     text-align: center;
+     background-color: transparent;
+     color: white;
+     border: 2px solid rgb(255, 255, 255);
+     border-radius: 5px;
+     margin-top: 50px;
+     margin-left: 20px; 
+}
